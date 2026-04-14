@@ -206,7 +206,7 @@ function Sidebar() {
       <div style={styles.logoArea}>
         <div style={styles.logoWrapper}>
           <Logo size={28} />
-          {!sidebarCollapsed && <span style={styles.logoText}>AIGC互动课件</span>}
+          {!sidebarCollapsed && <span style={styles.logoText}>互动课件AI Agent</span>}
         </div>
         {!sidebarCollapsed && (
           <button
