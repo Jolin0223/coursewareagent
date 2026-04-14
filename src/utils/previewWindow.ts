@@ -25,7 +25,7 @@ export function openCoursewarePreview(courseware: Courseware, allCoursewares: Co
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>${courseware.title} - AIGC互动课件</title>
+  <title>${courseware.title} - 互动课件AI Agent</title>
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
     body {
