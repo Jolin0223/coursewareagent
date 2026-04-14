@@ -196,7 +196,7 @@ export function openCoursewarePreview(courseware: Courseware, allCoursewares: Co
 <body>
   <div class="top-nav">
     <div class="nav-logo"><svg width="28" height="28" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="2" y="8" width="20" height="20" rx="4" fill="#22D3EE" opacity="0.8"/><rect x="10" y="2" width="20" height="20" rx="4" fill="#4ADE80" opacity="0.9"/><rect x="10" y="8" width="12" height="14" rx="2" fill="#4ADE80"/></svg></div>
-    <div class="nav-title">AIGC互动课件</div>
+    <div class="nav-title">互动课件AI Agent</div>
     <button class="nav-download" onclick="handleDownload()">⬇ 下载</button>
   </div>
 
